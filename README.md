@@ -2,8 +2,20 @@
 
 This is a simple (yet hopefully) fast implementation of the Fibonacci sequence in Python using Jax.
 
+The justification (explanation) and analysis of the method in the notebook (/notebooks/explanation.ipynb).
 
-The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, so it can be seen as a very simple difference equation.
+Also we show how the Jax implementation is faster than alternative implementations in the notebook (/notebooks/efficient_implementation.ipynb).
 
-### The Method Used
+Finally the clean implementation is in the file (/src/matrix_exponentiation.py).
 
+## Installation
+
+To run the code you need to install Jax. You can do this by running the following command:
+
+```bash
+pip install jax[cpu]
+```
+
+## Authors
+
+- [Jose M Munoz](https://www.github.com/munozariasjm)
