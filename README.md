@@ -1,6 +1,6 @@
 # Fast Fibonacci
 
-This is a simple (yet hopefully) fast implementation of the Fibonacci sequence in Python using Jax.
+This is a simple (yet hopefully) fast implementation of the Fibonacci sequence in Python using Jax with matrix exponentiation.
 
 The justification (explanation) and analysis of the method in the notebook (/notebooks/explanation.ipynb).
 
